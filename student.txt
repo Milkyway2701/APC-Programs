@@ -1,0 +1,6 @@
+Name: Amit
+Roll Number: 101
+Branch: CSE
+Semester: 2
+College: DYPCET
+City: Kolhapur
